@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T13:18:03.311Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="F2d5r_VdmMipjhG9VDQG" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T04:30:07.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="dDf9-7HyDW2Btjg5rwSM" version="21.1.5" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1615" dy="845" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2150" dy="998" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="6a7d8f32e03d9370-60" value="Internal Network" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=15;strokeColor=none;verticalAlign=top;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1138" y="501" width="189" height="602" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-15" value="&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;IP: 192.168.232.151/24&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;G/W: 192.168.232.2&lt;/span&gt;&lt;br&gt;Web/WAS Server&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=15;labelPosition=center;align=center;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-15" value="&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;IP: 192.168.65.151/24&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;G/W: 192.168.65.2&lt;/span&gt;&lt;br&gt;Web/WAS Server&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=15;labelPosition=center;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="639" y="408" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-62" value="Citrix Network Architecture" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
